@@ -28,4 +28,10 @@
   "profile": {
     "name": "typicode"
   }
+  "alb2": [
+    {
+      "311113": "Puerta1",
+      "344443": "Puerta2",
+      "322223": "Puerta3"
+    }
 }
